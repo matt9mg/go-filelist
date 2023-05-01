@@ -1,3 +1,5 @@
+[![Go Reference](https://pkg.go.dev/badge/github.com/matt9mg/go-filelist.svg)](https://pkg.go.dev/github.com/matt9mg/go-filelist)
+
 # File List
 Returns a list of files.
 
